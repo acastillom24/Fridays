@@ -16,6 +16,19 @@ https://nubededatos.blogspot.com/2014/11/conectando-r-con-ms-access-mediante.htm
 https://www.r-bloggers.com/2013/01/getting-access-data-into-r/  
 
 
+SHINY:
+https://github.com/gadenbuie/tweet-conf-dash  
+https://github.com/andy-techen/nba-shiny-dashboard  
+https://github.com/Ljupch0/nps  
+https://www.jumpingrivers.com/case-studies/fujifilm-r-shiny/  
+https://appsilon.com/shiny-semantic-pocontest-2020/  
+https://shiny.rstudio.com/gallery/masters.html  
+https://rstudio.github.io/shinydashboard/examples.html  
+https://www.youtube.com/watch?v=So-AL21HnWU  
+https://www.youtube.com/watch?v=PHdIivFAq7Q  
+https://www.youtube.com/watch?v=HUZvVy1KdZ0  
+
+
 ## ¿Qué información procesa un scoring?
 
 ## ¿Cómo funciona el scoring?
