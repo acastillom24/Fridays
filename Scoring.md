@@ -8,7 +8,12 @@ https://www.youtube.com/watch?v=JiXd1yPHSMw
 https://www.youtube.com/watch?v=NRNS9K6Ju6g  
 https://www.youtube.com/watch?v=0uBooDIVVEk  
 https://www.youtube.com/watch?v=RIjeonV-QFw  
-https://www.youtube.com/watch?v=u0N09ypWqNg
+https://www.youtube.com/watch?v=u0N09ypWqNg  
+
+OTROS:  
+https://www.sciencedirect.com/science/article/pii/S2007505713727157  
+https://nubededatos.blogspot.com/2014/11/conectando-r-con-ms-access-mediante.html  
+https://www.r-bloggers.com/2013/01/getting-access-data-into-r/  
 
 
 ## ¿Qué información procesa un scoring?
