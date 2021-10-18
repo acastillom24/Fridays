@@ -14,3 +14,6 @@ https://www.youtube.com/watch?v=u0N09ypWqNg
 ## ¿Qué información procesa un scoring?
 
 ## ¿Cómo funciona el scoring?
+
+## ¿Que hace el Credit Scoring?
+Clasificarte según la probalidad
