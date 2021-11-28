@@ -1,1 +1,6 @@
-$ x^1 $
+## Formulas Mátematicas en Markdown
+
+$$
+\alpha + \beta
+$$
+
